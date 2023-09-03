@@ -1,5 +1,7 @@
+# <p align="right">[![](https://visitcount.itsvg.in/api?id=maxter1200&icon=5&color=1)](https://visitcount.itsvg.in)</p> 
 # 💫 About Me:
-👋 Hi, I'm Matías Vivas<br>A Frontend Developer from Argentina 🇦🇷<br><br>- 🌱 I’m currently learning React.js<br><br>- 👨‍💻 All of my projects are available at .<br><br>- 📫 How to reach me vivasmatias@hotmail.com<br><br>- 📄 Know about my experiences reading my resume
+
+👋 Hi, I'm Matías Vivas<br>A Frontend Developer from Argentina 🇦🇷<br><br>- 🌱 I’m currently learning React.js<br><br>- 👨‍💻 All of my projects are available at .<br><br>- 📫 How to reach me vivasmatias@hotmail.com<br><br>- 📄 Know about my experiences reading [my resume](https://drive.google.com/file/d/1MYY4-2JopcSgEA06NJommMheruqTSJjT/view?usp=sharing)
 
 
 ## 🌐 Socials:
@@ -16,6 +18,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=maxter1200&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=maxter1200&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
