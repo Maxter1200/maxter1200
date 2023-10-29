@@ -1,7 +1,7 @@
 # <p align="right">[![](https://visitcount.itsvg.in/api?id=maty-vivas&icon=5&color=1)](https://visitcount.itsvg.in)</p> 
 # 💫 About Me:
 
-👋 Hi, I'm Matías Vivas<br>A Frontend Developer from Argentina 🇦🇷<br><br>- 🌱 I’m currently learning React.js<br><br>- 👨‍💻 All of my projects are available at .<br><br>- 📫 How to reach me vivasmatias@hotmail.com<br><br>- 📄 Know about my experiences reading [my resume](https://drive.google.com/file/d/1MYY4-2JopcSgEA06NJommMheruqTSJjT/view?usp=sharing)
+👋 Hi, I'm Matías Vivas<br>A Frontend Developer from Argentina 🇦🇷<br><br>- 🌱 I’m currently learning React.js<br><br>- 👨‍💻 All of my projects are available at .<br><br>- 📫 How to reach me vivasmatias@hotmail.com<br><br>- 📄 Know about my experiences reading [my resume](https://drive.google.com/file/d/1mmOBlXhkU0-QGqg8ffjUrpZjVVejtaeW/view?usp=sharing)
 
 
 ## 🌐 Socials:
